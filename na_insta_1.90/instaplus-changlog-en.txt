@@ -1,4 +1,4 @@
-Version 1.90 Changelog:
+Version 1.95 Changelog:
 
 >[Fixed] a crash when updating the follower list
 >[Fixed] The problem of duplicate icons when installing the update
