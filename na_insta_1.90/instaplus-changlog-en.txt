@@ -1,6 +1,5 @@
 Version 2.10 Changelog:
 
->Update [Base] 205.0.0.34.114
 >[Added] Hide Chat Feature
 >[Fix] Phone Overheating
 >[Fix] Battery consumption problem
