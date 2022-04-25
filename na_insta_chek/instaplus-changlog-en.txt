@@ -1,6 +1,18 @@
-Version 2.2020 Changelog:
+Version 2.90 Changelog:
 
->[Added] Hide Chat Feature
->[Fix] Phone Overheating
->[Fix] Battery consumption problem
->[Fixed] all the problems of the old version
+>[Base Update] 223.1.0.14.103
+>[Exclusive] Add (51) icons App (flags of Arab countries - club logos - girls icons and others)
+>[Added] Like Stories Feature
+>[Added] Themes within the application You can change the theme you like
+>[Added] The option to translate within conversations by clicking on the word you want to translate and then more
+>[Added] Option in the main screen to change between home, followers and favorites (appears in popular accounts)
+>[Improvement] Load button within conversations
+>[Fixed] The problem of crashing when entering the application in Android versions 12
+>[Fixed] Crash when changing language
+>[Fixed] Message crashing problem in Android 12
+>[Fixed] Dark Mode problem when registering another account
+>[Fixed] Crashes when entering comments in Android 12
+>[Fixed] Crash when downloading media in Android 12
+>[Fixed] All crash issues in Android 12
+>[Fixed] All crash problems
+>[More] Other fixes and improvements
