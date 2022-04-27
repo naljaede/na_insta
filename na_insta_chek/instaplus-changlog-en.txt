@@ -1,3 +1,8 @@
+Version 2.95 Changelog:
+
+>[Fixed] Harmful App Notification
+>[More] Other fixes and improvements
+
 Version 2.90 Changelog:
 
 >[Base Update] 223.1.0.14.103
