@@ -1,23 +1,8 @@
-Version 2.95 Changelog:
+Version 4.0 Changelog:
 
->[Fixed] Harmful App Notification
->[More] Other fixes and improvements
+Version V4.0 Changelog:
 
-Version 2.90 Changelog:
-
->[Base Update] 223.1.0.14.103
->[Exclusive] Add (51) icons App (flags of Arab countries - club logos - girls icons and others)
->[Added] Like Stories Feature
->[Added] Themes within the application You can change the theme you like
->[Added] The option to translate within conversations by clicking on the word you want to translate and then more
->[Added] Option in the main screen to change between home, followers and favorites (appears in popular accounts)
->[Improvement] Load button within conversations
->[Fixed] The problem of crashing when entering the application in Android versions 12
->[Fixed] Crash when changing language
->[Fixed] Message crashing problem in Android 12
->[Fixed] Dark Mode problem when registering another account
->[Fixed] Crashes when entering comments in Android 12
->[Fixed] Crash when downloading media in Android 12
->[Fixed] All crash issues in Android 12
+>[Base Update] 311.0.0.32.118
+>[Added] Exclusive and new features
+>[Added] Create channels
 >[Fixed] All crash problems
->[More] Other fixes and improvements
